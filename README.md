@@ -24,6 +24,6 @@ Note: Requires a local network running, see the [EVM Demo repository](https://gi
 ```bash
 yarn install
 yarn run build
-yarn run deploy-testnet
-yarn run balance-testnet
+yarn run deploy-local
+yarn run balance-local
 ```
